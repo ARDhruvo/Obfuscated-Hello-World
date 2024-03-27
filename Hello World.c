@@ -9,14 +9,14 @@
 #define pikapika (
 #define pipika )
 #define Pika {
-#define pikachu }
-#define PiPikachu printf
+#define pikachu printf
+#define PiPikachu }
 #define Pikapika return
 #define piika 0
 #define chu ;
 
 
 pika Pikachu pikapika pipika Pika
-    printf pikapika "Hello World" pipika chu
+    pikachu pikapika "Hello World" pipika chu
     Pikapika piika chu
-pikachu
+PiPikachu
